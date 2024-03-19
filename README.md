@@ -1,0 +1,2 @@
+# LargeScreenVue_Demo
+使用vue3实现的一个大屏项目的demo
