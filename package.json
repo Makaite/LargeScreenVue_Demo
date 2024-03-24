@@ -9,7 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "countup.js": "^2.8.0",
+    "echarts": "^5.5.0",
+    "gsap": "^3.12.5",
     "lodash": "^4.17.21",
+    "normalize.css": "^8.0.1",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
   },
